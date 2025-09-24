@@ -22,6 +22,4 @@ Due to space constraints, we have only provided the checkpoints for Audio MNIST 
 
 We can provide checkpoints for other datasets upon request.
 
-## Section 4: Report
 
-The `report` folder contains the complete technical report in CVPR format as requested. This report includes detailed information about the methodology, experiments, results, and conclusions of our research.
