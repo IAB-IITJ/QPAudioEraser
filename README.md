@@ -1,5 +1,5 @@
 # Project README
-
+Paper Link: [https://arxiv.org/abs/2507.22208]
 ## Section 1: Code
 
 The code for this project is present in the `code` folder. To run the code for any dataset:
